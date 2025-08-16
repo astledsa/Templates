@@ -15,6 +15,7 @@
     "@auth/core": "0.37.0",
     "@convex-dev/auth": "^0.0.88",
     "@tailwindcss/vite": "^4.1.12",
+    "@types/node": "^24.3.0",
     "ai": "^5.0.15",
     "convex": "^1.25.4",
     "react": "^19.1.1",
